@@ -25,6 +25,4 @@ Converter valores entre diferentes moedas de forma simples e rápida, usando tax
 ✔️ Cotações em tempo real  
 ✔️ Cálculos automáticos sem complicação  
 
----
 
-## 📂 Estrutura do Projeto
